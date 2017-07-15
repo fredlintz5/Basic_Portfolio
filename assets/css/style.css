@@ -248,13 +248,13 @@ body {
 	font-size: 1.1em;
 }
 
-#first {
+#name {
 
 	height: 30px;
 	margin-bottom: 5px;
 }
 
-#first[type=text] {
+#name[type=text] {
 
 	padding-left: 5px;
 	font-size: 13px; 
@@ -266,6 +266,11 @@ body {
 	padding-left: 5px; 
 	font-size: 13px;
 	opacity: 0.7;
+}
+
+#message[type=text] {
+
+	line-height: 0px;
 }
 
 #email {
