@@ -30,12 +30,16 @@
 .col-11 {width: 91.66%;}
 .col-12 {width: 100%;}
 
+a {
+	color: #777777;
+	text-decoration: none;
+}
 a:visited {
 	color: #777777;
 }
 
 a:hover {
-	color: #5b5b5b;
+	color: #4c4b4b;
 }
 
 body {
